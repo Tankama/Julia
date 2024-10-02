@@ -1,6 +1,7 @@
 streamlit
 torch
+torchvision
 transformers
 pandas
-Pillow
-chromadb
+pillow
+sqlite3
